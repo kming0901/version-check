@@ -12,16 +12,13 @@ john	john	Password hash testing	/usr/sbin/john	john	1.9.0-Jumbo-1+git20211102-0k
 hashcat	hashcat	Password hash testing	/usr/bin/hashcat	hashcat	7.1.2+ds1-4	INSTALLED / 已安裝
 curl	curl	HTTP HTTPS API testing	/usr/bin/curl	curl	8.19.0-3	INSTALLED / 已安裝
 wget	wget	HTTP file download testing	/usr/bin/wget	wget	1.25.0-2	INSTALLED / 已安裝
-dig	dnsutils	DNS query	/usr/bin/dig	bind9-dnsutils	1:9.20.23-1	INSTALLED / 已安裝
 whatweb	whatweb	Web technology fingerprinting	/usr/bin/whatweb	whatweb	0.6.4-1	INSTALLED / 已安裝
 wafw00f	wafw00f	WAF detection	/usr/bin/wafw00f	wafw00f	2.4.2-1	INSTALLED / 已安裝
 nikto	nikto	Web server security check	/usr/bin/nikto	nikto	1:2.6.0-0kali4	INSTALLED / 已安裝
-gobuster	gobuster	Directory DNS VHost enumeration	/usr/bin/gobuster	gobuster	3.8.2-1	INSTALLED / 已安裝
 ffuf	ffuf	Web fuzzing	/usr/bin/ffuf	ffuf	2.1.0-1+b11	INSTALLED / 已安裝
 msfconsole	metasploit-framework	Exploit validation framework	/usr/bin/msfconsole	metasploit-framework	6.4.133-0kali1	INSTALLED / 已安裝
 searchsploit	exploitdb	Exploit database search	/usr/bin/searchsploit	exploitdb	20260516-0kali1	INSTALLED / 已安裝
 smbmap	smbmap	SMB share permission check	/usr/bin/smbmap	smbmap	1.10.7-1	INSTALLED / 已安裝
-responder	responder	LLMNR NBNS mDNS testing	/usr/sbin/responder	responder	3.2.2.0-0kali1	INSTALLED / 已安裝
 ettercap	ettercap-common	MITM ARP spoofing testing	/usr/bin/ettercap	ettercap-graphical	1:0.8.4.1-2	INSTALLED / 已安裝
 mitmproxy	mitmproxy	HTTP HTTPS proxy analysis	/usr/bin/mitmproxy	mitmproxy	12.2.3-0kali2	INSTALLED / 已安裝
 aircrack-ng	aircrack-ng	Wi-Fi security testing	/usr/bin/aircrack-ng	aircrack-ng	1:1.7+git20230807.4bf83f1a-3	INSTALLED / 已安裝
@@ -29,7 +26,6 @@ airodump-ng	aircrack-ng	Wi-Fi capture and monitoring	/usr/sbin/airodump-ng	aircr
 aireplay-ng	aircrack-ng	Wi-Fi packet injection testing	/usr/sbin/aireplay-ng	aircrack-ng	1:1.7+git20230807.4bf83f1a-3	INSTALLED / 已安裝
 reaver	reaver	WPS testing	/usr/bin/reaver	reaver	1.6.6-2+b1	INSTALLED / 已安裝
 binwalk	binwalk	Firmware analysis	/usr/bin/binwalk	binwalk	2.4.3+dfsg1-2	INSTALLED / 已安裝
-ghidra	ghidra	Reverse engineering	/usr/bin/ghidra	ghidra	12.1+ds-0kali1	INSTALLED / 已安裝
 testssl	testssl	TLS SSL protocol cipher certificate and cryptographic flaw testing	/usr/bin/testssl	testssl.sh	3.2.2+dfsg-1	INSTALLED / 已安裝
 sslscan	sslscan	SSL TLS service protocol cipher suite certificate scanning	/usr/bin/sslscan	sslscan	2.1.5-1	INSTALLED / 已安裝
 sslyze	sslyze	Fast SSL TLS configuration scanner	/usr/bin/sslyze	sslyze	6.3.1-0kali1	INSTALLED / 已安裝
