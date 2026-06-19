@@ -1,5 +1,5 @@
 Command / 指令	Package Hint / 套件提示	Purpose / 用途	Command Path / 指令路徑	Detected Package / 偵測到的套件	Version / 版本	Status / 狀態
-nmap	nmap	Port scan service detection NSE script scan	/usr/bin/nmap	nmap	7.99+dfsg-1kali1	INSTALLED / 已安裝
+nmap	nmap	Port scan service detection NSE script scan	/usr/bin/nmap	nmap	7.999+dfsg-1kali1	INSTALLED / 已安裝
 hping3	hping3	TCP UDP ICMP packet testing	/usr/sbin/hping3	hping3	3.a2.ds2-11~kali1	INSTALLED / 已安裝
 tcpdump	tcpdump	Packet capture	/usr/bin/tcpdump	tcpdump	4.99.6-2	INSTALLED / 已安裝
 wireshark	wireshark	GUI packet analysis	/usr/bin/wireshark	wireshark	4.6.6-1	INSTALLED / 已安裝
