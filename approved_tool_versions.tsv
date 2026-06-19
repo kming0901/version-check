@@ -5,18 +5,18 @@ tcpdump	tcpdump	Packet capture	/usr/bin/tcpdump	tcpdump	4.99.6-2	INSTALLED / 已
 wireshark	wireshark	GUI packet analysis	/usr/bin/wireshark	wireshark	4.6.6-1	INSTALLED / 已安裝
 openssl	openssl	TLS certificate cipher check	/usr/bin/openssl	openssl	3.6.2-1	INSTALLED / 已安裝
 burpsuite	burpsuite	Web application proxy testing	/usr/bin/burpsuite	burpsuite	2026.3.2-0kali1	INSTALLED / 已安裝
-sqlmap	sqlmap	SQL injection testing	/usr/bin/sqlmap	sqlmap	1.10.4-1	INSTALLED / 已安裝
+sqlmap	sqlmap	SQL injection testing	/usr/bin/sqlmap	sqlmap	1.10.6-1	INSTALLED / 已安裝
 hydra	hydra	Login password testing	/usr/bin/hydra	hydra	9.7-1	INSTALLED / 已安裝
 john	john	Password hash testing	/usr/sbin/john	john	1.9.0-Jumbo-1+git20211102-0kali10	INSTALLED / 已安裝
 hashcat	hashcat	Password hash testing	/usr/bin/hashcat	hashcat	7.1.2+ds1-4	INSTALLED / 已安裝
-curl	curl	HTTP HTTPS API testing	/usr/bin/curl	curl	8.19.0-3	INSTALLED / 已安裝
+curl	curl	HTTP HTTPS API testing	/usr/bin/curl	curl	8.20.0-5	INSTALLED / 已安裝
 wget	wget	HTTP file download testing	/usr/bin/wget	wget	1.25.0-2	INSTALLED / 已安裝
 whatweb	whatweb	Web technology fingerprinting	/usr/bin/whatweb	whatweb	0.6.4-1	INSTALLED / 已安裝
 wafw00f	wafw00f	WAF detection	/usr/bin/wafw00f	wafw00f	2.4.2-1	INSTALLED / 已安裝
 nikto	nikto	Web server security check	/usr/bin/nikto	nikto	1:2.6.0-0kali4	INSTALLED / 已安裝
 ffuf	ffuf	Web fuzzing	/usr/bin/ffuf	ffuf	2.1.0-1+b11	INSTALLED / 已安裝
-msfconsole	metasploit-framework	Exploit validation framework	/usr/bin/msfconsole	metasploit-framework	6.4.133-0kali1	INSTALLED / 已安裝
-searchsploit	exploitdb	Exploit database search	/usr/bin/searchsploit	exploitdb	20260516-0kali1	INSTALLED / 已安裝
+msfconsole	metasploit-framework	Exploit validation framework	/usr/bin/msfconsole	metasploit-framework	6.4.135-0kali1	INSTALLED / 已安裝
+searchsploit	exploitdb	Exploit database search	/usr/bin/searchsploit	exploitdb	20260602-0kali1	INSTALLED / 已安裝
 ettercap	ettercap-common	MITM ARP spoofing testing	/usr/bin/ettercap	ettercap-graphical	1:0.8.4.1-2	INSTALLED / 已安裝
 mitmproxy	mitmproxy	HTTP HTTPS proxy analysis	/usr/bin/mitmproxy	mitmproxy	12.2.3-0kali2	INSTALLED / 已安裝
 aircrack-ng	aircrack-ng	Wi-Fi security testing	/usr/bin/aircrack-ng	aircrack-ng	1:1.7+git20230807.4bf83f1a-3	INSTALLED / 已安裝
