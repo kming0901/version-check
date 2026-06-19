@@ -3,7 +3,6 @@ nmap	nmap	Port scan service detection NSE script scan	/usr/bin/nmap	nmap	7.99+df
 hping3	hping3	TCP UDP ICMP packet testing	/usr/sbin/hping3	hping3	3.a2.ds2-11~kali1	INSTALLED / 已安裝
 tcpdump	tcpdump	Packet capture	/usr/bin/tcpdump	tcpdump	4.99.6-2	INSTALLED / 已安裝
 wireshark	wireshark	GUI packet analysis	/usr/bin/wireshark	wireshark	4.6.6-1	INSTALLED / 已安裝
-tshark	tshark	CLI packet analysis	/usr/bin/tshark	tshark	4.6.6-1	INSTALLED / 已安裝
 openssl	openssl	TLS certificate cipher check	/usr/bin/openssl	openssl	3.6.2-1	INSTALLED / 已安裝
 burpsuite	burpsuite	Web application proxy testing	/usr/bin/burpsuite	burpsuite	2026.3.2-0kali1	INSTALLED / 已安裝
 sqlmap	sqlmap	SQL injection testing	/usr/bin/sqlmap	sqlmap	1.10.4-1	INSTALLED / 已安裝
