@@ -3,7 +3,7 @@ nmap	nmap	Port scan service detection NSE script scan	/usr/bin/nmap	nmap	7.99+df
 hping3	hping3	TCP UDP ICMP packet testing	/usr/sbin/hping3	hping3	3.a2.ds2-11~kali1	INSTALLED / 已安裝
 tcpdump	tcpdump	Packet capture	/usr/bin/tcpdump	tcpdump	4.99.6-2	INSTALLED / 已安裝
 wireshark	wireshark	GUI packet analysis	/usr/bin/wireshark	wireshark	4.6.6-1	INSTALLED / 已安裝
-openssl	openssl	TLS certificate cipher check	/usr/bin/openssl	openssl	3.6.3-1	INSTALLED / 已安裝
+openssl	openssl	TLS certificate cipher check	/usr/bin/openssl	openssl	3.6.5-1	INSTALLED / 已安裝
 burpsuite	burpsuite	Web application proxy testing	/usr/bin/burpsuite	burpsuite	2026.3.2-0kali1	INSTALLED / 已安裝
 sqlmap	sqlmap	SQL injection testing	/usr/bin/sqlmap	sqlmap	1.10.6-1	INSTALLED / 已安裝
 hydra	hydra	Login password testing	/usr/bin/hydra	hydra	9.7-1	INSTALLED / 已安裝
@@ -21,7 +21,7 @@ ettercap	ettercap-common	MITM ARP spoofing testing	/usr/bin/ettercap	ettercap-gr
 mitmproxy	mitmproxy	HTTP HTTPS proxy analysis	/usr/bin/mitmproxy	mitmproxy	12.2.3-0kali2	INSTALLED / 已安裝
 aircrack-ng	aircrack-ng	Wi-Fi security testing	/usr/bin/aircrack-ng	aircrack-ng	1:1.7+git20230807.4bf83f1a-3	INSTALLED / 已安裝
 binwalk	binwalk	Firmware analysis	/usr/bin/binwalk	binwalk	2.4.3+dfsg1-2	INSTALLED / 已安裝
-testssl	testssl	TLS SSL protocol cipher certificate and cryptographic flaw testing	/usr/bin/testssl	testssl.sh	3.2.2+dfsg-1	INSTALLED / 已安裝
+testssl	testssl	TLS SSL protocol cipher certificate and cryptographic flaw testing	/usr/bin/testssl	testssl.sh	3.2.4+dfsg-2	INSTALLED / 已安裝
 sslscan	sslscan	SSL TLS service protocol cipher suite certificate scanning	/usr/bin/sslscan	sslscan	2.1.5-1	INSTALLED / 已安裝
 sslyze	sslyze	Fast SSL TLS configuration scanner	/usr/bin/sslyze	sslyze	6.3.1-0kali1	INSTALLED / 已安裝
 
