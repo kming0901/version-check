@@ -1,5 +1,5 @@
 {
   "nmap": "7.99",
-  "openssl": "3.6.3",
-  "testssl": "3.2.2"
+  "openssl": "3.6.5",
+  "testssl": "3.2.4"
 }
